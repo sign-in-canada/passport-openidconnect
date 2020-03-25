@@ -1,5 +1,5 @@
 {
-  "name": "passport-openidconnect-sic",
+  "name": "sic-passport-openidconnect",
   "version": "0.0.2",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
@@ -40,9 +40,9 @@
   "devDependencies": {
     "chai": "2.x.x",
     "chai-passport-strategy": "1.x.x",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^8.5.1",
     "make-node": "0.3.x",
-    "mocha": "2.x.x",
+    "mocha": "^7.1.1",
     "proxyquire": "^1.7.10",
     "sinon": "^1.17.6"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "sic-passport-openidconnect",
+  "name": "@sic\passport-openidconnect",
   "version": "0.0.2",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
